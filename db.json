@@ -1,0 +1,269 @@
+{
+  "users": [
+    {
+      "id": "8ffbeb31-7ec3-4ae4-8024-c9bf2f977b9e",
+      "username": "sachin",
+      "passwordHash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+      "createdAt": 1770484194648
+    },
+    {
+      "id": "52567960-4229-497f-afbd-b768dc4fb5a5",
+      "username": "netra",
+      "passwordHash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+      "createdAt": 1770484215737
+    }
+  ],
+  "messages": [
+    {
+      "id": "c3bbd5f2-380b-446f-8973-08ef275db4fb",
+      "roomId": "dm:netra:sachin",
+      "roomType": "dm",
+      "user": "netra",
+      "text": "Hi",
+      "timestamp": 1770484221584,
+      "to": "sachin"
+    },
+    {
+      "id": "494bce7d-2bc5-4281-8c31-9f091de7a36e",
+      "roomId": "dm:netra:sachin",
+      "roomType": "dm",
+      "user": "sachin",
+      "text": "Hi",
+      "timestamp": 1770484232824,
+      "to": "netra"
+    },
+    {
+      "id": "d377c6aa-c932-46b5-8e84-e0e871f4c148",
+      "roomId": "dm:netra:sachin",
+      "roomType": "dm",
+      "user": "sachin",
+      "text": "Hi",
+      "timestamp": 1770484241039,
+      "to": "netra"
+    },
+    {
+      "id": "e266226e-db05-40f2-8ec8-18df5b92f433",
+      "roomId": "dm:netra:sachin",
+      "roomType": "dm",
+      "user": "netra",
+      "text": "I am sachin",
+      "timestamp": 1770484252689,
+      "to": "sachin"
+    },
+    {
+      "id": "e2e129a6-5955-4fb1-a6f7-1bad6e041463",
+      "roomId": "group:global",
+      "roomType": "group",
+      "user": "sachin",
+      "text": "hi",
+      "timestamp": 1770484336253,
+      "groupId": "global"
+    },
+    {
+      "id": "bbd605aa-a955-4bbd-bb7f-fdf29ce99136",
+      "roomId": "group:global",
+      "roomType": "group",
+      "user": "netra",
+      "text": "hi",
+      "timestamp": 1770484343261,
+      "groupId": "global"
+    },
+    {
+      "id": "636ab6e1-4037-4678-8fa6-266e26afb246",
+      "roomId": "dm:netra:sachin",
+      "roomType": "dm",
+      "user": "sachin",
+      "text": "Hi",
+      "timestamp": 1770484460954,
+      "to": "netra"
+    },
+    {
+      "id": "a82a6fba-0ced-4ff1-8409-0a1c3b80072c",
+      "roomId": "dm:netra:sachin",
+      "roomType": "dm",
+      "user": "netra",
+      "text": "Hi",
+      "timestamp": 1770484465485,
+      "to": "sachin"
+    },
+    {
+      "id": "f01941e2-8ccf-458b-8616-61b43cf135b5",
+      "roomId": "dm:netra:sachin",
+      "roomType": "dm",
+      "user": "sachin",
+      "text": "connect",
+      "timestamp": 1770485060934,
+      "to": "netra",
+      "toKey": "netra",
+      "fromKey": "sachin"
+    },
+    {
+      "id": "a2954433-f21c-40ae-bcd1-66153026862d",
+      "roomId": "dm:netra:sachin",
+      "roomType": "dm",
+      "user": "netra",
+      "text": "Hin",
+      "timestamp": 1770485073017,
+      "to": "sachin",
+      "toKey": "sachin",
+      "fromKey": "netra"
+    },
+    {
+      "id": "1fdea713-2661-4e6a-ac7e-a80d6cf825c8",
+      "roomId": "dm:netra:sachin",
+      "roomType": "dm",
+      "user": "sachin",
+      "text": "Hi 10",
+      "timestamp": 1770485265818,
+      "to": "netra",
+      "toKey": "netra",
+      "fromKey": "sachin"
+    },
+    {
+      "id": "167aba43-b7f9-4219-a650-5906cd6b8d42",
+      "roomId": "dm:netra:sachin",
+      "roomType": "dm",
+      "user": "sachin",
+      "text": "Hi check",
+      "timestamp": 1770485601274,
+      "to": "netra",
+      "toKey": "netra",
+      "fromKey": "sachin"
+    },
+    {
+      "id": "44b28752-7765-4a0f-96ad-813c5ff71cca",
+      "roomId": "dm:netra:sachin",
+      "roomType": "dm",
+      "user": "sachin",
+      "text": "checked",
+      "timestamp": 1770485657483,
+      "to": "netra",
+      "toKey": "netra",
+      "fromKey": "sachin"
+    },
+    {
+      "id": "cec0e43a-a61b-48d8-963b-fc9ac144b970",
+      "roomId": "dm:netra:sachin",
+      "roomType": "dm",
+      "user": "sachin",
+      "text": "check",
+      "timestamp": 1770485800987,
+      "to": "netra",
+      "toKey": "netra",
+      "fromKey": "sachin"
+    },
+    {
+      "id": "a1f3b682-59b5-4837-b709-23a9397b61df",
+      "roomId": "dm:netra:sachin",
+      "roomType": "dm",
+      "user": "netra",
+      "text": "check",
+      "timestamp": 1770485809212,
+      "to": "sachin",
+      "toKey": "sachin",
+      "fromKey": "netra"
+    },
+    {
+      "id": "105b24e7-2dc0-4884-807c-a86cb226d8a7",
+      "roomId": "group:global",
+      "roomType": "group",
+      "user": "sachin",
+      "text": "Hi",
+      "timestamp": 1770485862213,
+      "groupId": "global"
+    },
+    {
+      "id": "8ffa934b-9651-48fe-a29c-f340baa036ef",
+      "roomId": "group:global",
+      "roomType": "group",
+      "user": "netra",
+      "text": "Hi",
+      "timestamp": 1770485870894,
+      "groupId": "global"
+    },
+    {
+      "id": "2f9fdbce-f659-4a41-aba6-e487d5b2b9c8",
+      "roomId": "dm:netra:sachin",
+      "roomType": "dm",
+      "user": "sachin",
+      "text": "Hi",
+      "timestamp": 1770486071951,
+      "to": "netra",
+      "toKey": "netra",
+      "fromKey": "sachin"
+    },
+    {
+      "id": "fade3879-b426-40e0-b014-7abd9a04a01a",
+      "roomId": "dm:netra:sachin",
+      "roomType": "dm",
+      "user": "netra",
+      "text": "hi",
+      "timestamp": 1770486086323,
+      "to": "sachin",
+      "toKey": "sachin",
+      "fromKey": "netra"
+    },
+    {
+      "id": "f4779924-2b69-4f58-af2f-c48d85aa12ed",
+      "roomId": "dm:netra:sachin",
+      "roomType": "dm",
+      "user": "sachin",
+      "text": "Hi",
+      "timestamp": 1770487049898,
+      "to": "netra",
+      "toKey": "netra",
+      "fromKey": "sachin"
+    },
+    {
+      "id": "39e3d132-eae7-4954-a7f8-60c05acef574",
+      "roomId": "dm:netra:sachin",
+      "roomType": "dm",
+      "user": "netra",
+      "text": "hi",
+      "timestamp": 1770487067388,
+      "to": "sachin",
+      "toKey": "sachin",
+      "fromKey": "netra"
+    },
+    {
+      "id": "00f1a72b-2bff-4fb6-a918-e4bf9d8b5627",
+      "roomId": "dm:netra:sachin",
+      "roomType": "dm",
+      "user": "netra",
+      "text": "Test",
+      "timestamp": 1770487133573,
+      "to": "sachin",
+      "toKey": "sachin",
+      "fromKey": "netra"
+    },
+    {
+      "id": "94be5a80-d939-4ac9-8d25-32fef05a54f7",
+      "roomId": "dm:netra:sachin",
+      "roomType": "dm",
+      "user": "sachin",
+      "text": "hi",
+      "timestamp": 1770487977063,
+      "to": "netra",
+      "toKey": "netra",
+      "fromKey": "sachin"
+    },
+    {
+      "id": "8feb6f09-d5d6-44b0-a007-c2eaf396c6e5",
+      "roomId": "dm:netra:sachin",
+      "roomType": "dm",
+      "user": "netra",
+      "text": "i am netra",
+      "timestamp": 1770488026035,
+      "to": "sachin",
+      "toKey": "sachin",
+      "fromKey": "netra"
+    }
+  ],
+  "groups": [
+    {
+      "id": "global",
+      "name": "Global Lounge",
+      "createdAt": 1770483124995
+    }
+  ]
+}
